@@ -28,7 +28,7 @@ pip install -r requirements.txt
 **Configure Environment Variables**
 AUTHORIZATION=your_bearer_token
 MONGO_URI=mongodb://localhost:27017
-
+```
 products_tracker/
 ├── main.py                # main logic 
 ├── connect.py             #(pagination, data fetching)
@@ -37,3 +37,21 @@ products_tracker/
 ├── .env                   # Local env file (not committed)
 └── README.md              # Project documentation
 
+```
+What’s Tracked for Each Product
+product_id, variant_id
+
+title, handle, vendor, product_type, product_category
+
+price, compare_at_price
+
+inventory: quantity, in_stock, item ID, inventory policy
+
+options: size, condition
+
+image_url, additional_images
+
+tags, collections
+
+published_at, updated_at
+```
