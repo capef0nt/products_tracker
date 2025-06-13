@@ -55,3 +55,17 @@ tags, collections
 
 published_at, updated_at
 ```
+🛠 Roadmap / To-Do
+✅ Initial working scraper
+
+⏳ Async scraping with aiohttp
+
+⏳ Delta tracking for stock changes
+
+⏳ UI dashboard for visualization
+
+⏳ Historical price analysis
+
+📬 Author
+Built with ♥ by Cephas M
+Questions? Reach out via email: bcm637@gmail.com
