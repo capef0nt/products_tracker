@@ -1,6 +1,6 @@
-# 🛒 CourtOrder Scraper
+# 🛒 Product Inventory Scraper
 
-This is a Python-based project for scraping and tracking competitor product data from [courtorder.co.za](https://courtorder.co.za). It extracts product listings, transforms them into a structured format, and stores them in MongoDB for monitoring stock, pricing, and metadata over time.
+This is a Python-based project for scraping and tracking competitor product data for shopify stores . It extracts product listings, transforms them into a structured format, and stores them in MongoDB for monitoring stock, pricing, and metadata over time.
 
 ---
 
