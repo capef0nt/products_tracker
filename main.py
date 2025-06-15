@@ -15,7 +15,7 @@ def scrape_and_store_all():
             collection.insert_many(products)
             print(f"Inserted {len(products)} products from skip={skip}")
         skip += page_size
-        time.sleep(5)
+        time.sleep(6)
 
 if __name__ == "__main__":
     scrape_and_store_all()
